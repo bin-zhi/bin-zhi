@@ -11,7 +11,7 @@ I'm an explorer of new technologies, an avid learner, and a problem solver. When
 
 Joined Github **3** years ago.
 
-Since then I pushed **3053**+ commits, opened **229**+ issues, submitted **420**+ pull requests, created **20**+ gists and contributed to **3**+ public repositories.
+Since then I pushed **6000**+ commits, opened **229**+ issues, submitted **420**+ pull requests, created **20**+ gists and contributed to **3**+ public repositories.
 
 Like My Work?
 
